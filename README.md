@@ -59,7 +59,7 @@ carrentalsystem/
 
 🚀 How to Run
  1.Clone the repository:
- 2.git clone https://github.com/YourUsername/CarRentalSystem.git
+ 2.git clone https://github.com/Valluri1srilatha/CarRentalSystem.git
  3.Open in Eclipse or IntelliJ as a Maven Project.
  4.Ensure dependencies from pom.xml are downloaded.
  5.Deploy on Apache Tomcat 9.
